@@ -1,0 +1,11 @@
+# 忽略 Java 編譯出的檔與 target 資料夾
+target/
+*.jar
+*.war
+
+# 忽略 IDE 設定檔（可選）
+.idea/
+*.iml
+.settings/
+.classpath
+.project
